@@ -1,7 +1,3 @@
-Certainly! Here's the README template in English:
-
----
-
 # Go WebSocket Server
 
 This is a WebSocket project written in Go using the Gorilla package, enabling real-time communication between a server and multiple clients.
